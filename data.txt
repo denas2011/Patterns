@@ -1,0 +1,3 @@
+dog mammal Brisius 10.1 0.3 walk
+cat mammal Silvester 0.3 0.3 sneak
+pigeon bird Tweetie 0.01 0.05 fly
